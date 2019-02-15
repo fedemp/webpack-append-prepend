@@ -1,0 +1,21 @@
+{
+  "name": "webpack-append-prepend",
+  "version": "1.0.0",
+  "description": "Loader for Webpack 4 to append and prepend text to files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "append",
+    "prepend",
+    "webpack",
+    "loader"
+  ],
+  "author": "fedemp",
+  "license": "ISC",
+  "dependencies": {},
+  "peerDependencies": {
+    "webpack": "4.x"
+  }
+}
