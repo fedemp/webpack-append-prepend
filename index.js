@@ -16,9 +16,9 @@ const schema = {
 module.exports = function(source) {
 	const options = getOptions(this);
 
-	validateOptions(schema, options, "Example Loader");
+	validateOptions(schema, options, "webpack-loader-append-prepend");
 
 	const {append = "", prepend = ""} = options;
 
-	return `${prepend};\n${source};\n${append}`;
+	return `${prepend}\n${source}\n${append}`;
 }
