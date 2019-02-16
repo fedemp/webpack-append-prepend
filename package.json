@@ -13,6 +13,9 @@
     "loader"
   ],
   "author": "fedemp",
+  "homepage": "https://github.com/fedemp/webpack-loader-append-prepend",
+  "bugs": "https://github.com/fedemp/webpack-loader-append-prepend/issues",
+  "repository": "github:fedemp/webpack-loader-append-prepend",
   "license": "MIT",
   "dependencies": {},
   "peerDependencies": {
