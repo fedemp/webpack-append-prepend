@@ -1,6 +1,6 @@
 {
   "name": "webpack-loader-append-prepend",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Loader for Webpack 4 to append and prepend text to files",
   "main": "index.js",
   "scripts": {
